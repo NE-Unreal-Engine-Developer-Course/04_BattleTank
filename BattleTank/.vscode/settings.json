@@ -1,7 +1,7 @@
 {
 	"files.exclude": {
-		"C:/Users/Home2/Dropbox/UE Course/Section 4 - BattleTank/04_BattleTank_GitHub/BattleTank/.vscode": true,
-		"C:/Users/Home2/Dropbox/UE Course/Section 4 - BattleTank/04_BattleTank_GitHub/BattleTank/Content": true,
-		"C:/Users/Home2/Dropbox/UE Course/Section 4 - BattleTank/04_BattleTank_GitHub/BattleTank/Intermediate": true
+		"/home/nicolas/Documents/Unreal Projects/04_BattleTank/BattleTank/.vscode": true,
+		"/home/nicolas/Documents/Unreal Projects/04_BattleTank/BattleTank/Content": true,
+		"/home/nicolas/Documents/Unreal Projects/04_BattleTank/BattleTank/Intermediate": true
 	}
 }
